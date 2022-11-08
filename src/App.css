@@ -88,11 +88,13 @@
   transform: perspective(850px) rotateX(85deg) rotateY(0deg) rotateZ(0deg);
 }
 .Hallway_plane_hexagon {
-  height: 60px;
-  margin-top: 200px;
+  height: 250px;
+  width: 495px;
+  margin-left: -55px;
+  margin-top: 60px;
   display: grid;
   align-items: center;
-  transform: perspective(850px) rotateX(55deg) rotateY(0deg) rotateZ(0deg);
+  transform: perspective(650px) rotateX(65deg) rotateY(0deg) rotateZ(0deg);
 }
 .Hallway_plane_hexagon_floor {
   height: 60px;
