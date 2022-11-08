@@ -8,7 +8,7 @@ const index = ({ setPreview, setModal }) => {
         <Button
           sx={{
             "borderColor": 'black',
-            "zIndex": 2,
+            "zIndex": 10,
             "borderRadius": 2,
             "color": 'black',
             '&:focus': {
@@ -29,7 +29,7 @@ const index = ({ setPreview, setModal }) => {
         <Button
           sx={{
             "borderColor": 'black',
-            "zIndex": 2,
+            "zIndex": 10,
             "borderRadius": 2,
             "color": 'black',
             '&:focus': {
@@ -50,7 +50,7 @@ const index = ({ setPreview, setModal }) => {
         <Button
           sx={{
             "borderColor": 'black',
-            "zIndex": 2,
+            "zIndex": 10,
             "borderRadius": 2,
             "color": 'black',
             '&:focus': {

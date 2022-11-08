@@ -161,7 +161,7 @@ const index = forwardRef((prop, ref) => {
             sx={{
               display: load ? null :'none',
               position: 'absolute',
-              width: '100%',
+              width: '120%',
               height: '100%',
               zIndex: 8,
               backgroundColor: 'white',
@@ -178,14 +178,13 @@ const index = forwardRef((prop, ref) => {
           <Grid item xs={12}>
             <Grid container alignItems={'center'} justifyContent='center'>
               <Grid item>
-                <Box height='450px' width='650px' position={'relative'} zIndex={3} >
+                <Box height='550px' sx={{ marginTop: '-130px' }} ref={refc} width='650px' position={'relative'} zIndex={3} >
                   {preview==='Hallway' ? (
                     <Grid
                       container
                       sx={{ width: '100%' }}
                       justifyContent='center'
                       alignItems='center'
-                      ref={refc}
                     >
                       <div className='Hallway' />
                       <div className={currentPattern.type==='Hexagon' ?
@@ -206,8 +205,6 @@ const index = forwardRef((prop, ref) => {
                                   currentColor={currentColor}
                                 />
                               </Grid>
-                              <FirstHallwayShadowHexa />
-                              <SecondHallwayShadowHexa />
                             </Grid>
                           ):(
                             Items.map((data) => (
@@ -226,10 +223,8 @@ const index = forwardRef((prop, ref) => {
                                   />
                                 </Grid>
                               </>
-                            )).slice(0, 8))}
+                            )).slice(0, 12))}
                           <Hidden xsDown={currentPattern.type==='Hexagon'} xsUp={currentPattern.type==='Hexagon'}>
-                            <FirstHallwayShadow />
-                            <SecondHallwayShadow />
                           </Hidden>
                         </Grid>
                       </div>
@@ -336,13 +331,13 @@ const index = forwardRef((prop, ref) => {
                              >
                                <MultiRotateTiles
                                  ref={ref}
-                                 type='63'
+                                 type='59'
                                  currentPattern={currentPattern}
                                  setCurrentPattern={setCurrentPattern}
                                  currentColor={currentColor}
                                />
                              </Grid>
-                           )).slice(0, 12))}
+                           )).slice(0, 15))}
                            <Hidden xsDown={currentPattern.type==='Hexagon'} xsUp={currentPattern.type==='Hexagon'}>
                              <FirstShadow />
                              <SecondShadow />
