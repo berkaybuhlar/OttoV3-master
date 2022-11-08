@@ -1,0 +1,310 @@
+[
+    {
+       "id":0,
+       "type":"Hexagon",
+      "sqm_price":"0",
+      "object_bg_color":"#FFFFFF",
+       "object_name":"Select your favourites tile and pattern"
+    },
+    {
+       "id":1,
+       "object_bg_color":"#FFFFFF",
+      "sqm_price":"127",
+      "type":"Hexagon",
+       "object_used_colors":[
+          
+       ],
+       "object_name":"Cordoba Granada",
+        "bg_group_item_id":1,
+       "bg_group_item_object":"g",
+       "bg_group_item_object_variables":[
+          {
+             "bg_group_child_id":1,
+             "bg_group_child_object":"path",
+             "name":"points",
+             "fill":"#FFFFFF",
+             "value":"M239.87,48.08h-138.4l-69.2,119.86l69.2,119.86h138.4l69.2-119.86L239.87,48.08z M226.75,265.07H114.59l-56.08-97.13l56.08-97.13h112.16l56.08,97.13L226.75,265.07z"
+          },
+          {
+             "bg_group_child_id":2,
+             "bg_group_child_object":"polygon",
+             "name":"points",
+             "fill":"#FFFFFF",
+             "value":"226.75,70.8 114.59,70.8 58.51,167.94 114.59,265.07 226.75,265.07 282.83,167.94"
+          }
+       ]
+    },
+    {
+        "id":2,
+        "object_bg_color":"#FFFFFF",
+      "sqm_price":"127",
+      "type":"Hexagon",
+        "object_used_colors":[
+           
+        ],
+        "object_name":"Hex 3D",
+        "bg_group_item_id":1,
+        "bg_group_item_object":"g",
+        "bg_group_item_object_variables":[
+           {
+              "bg_group_child_id":1,
+              "bg_group_child_object":"polygon",
+              "name":"points",
+              "fill":"#FFFFFF",
+              "value":"253.47,24.52 88.67,24.7 172.31,169.36 334.91,168.44"
+           },
+           {
+              "bg_group_child_id":2,
+              "bg_group_child_object":"polygon",
+              "name":"points",
+              "fill":"#FFFFFF",
+              "value":"172.72,167.42 88.44,26.85 88.44,310.51"
+           },
+           {
+            "bg_group_child_id":3,
+            "bg_group_child_object":"polygon",
+            "name":"points",
+            "fill":"#FFFFFF",
+            "value":"172.72,167.42 88.97,309.61 333.22,167.56"
+         }
+        ]
+     },
+     {
+        "id":3,
+        "object_bg_color":"#FFFFFF",
+      "sqm_price":"127",
+      "type":"Hexagon",
+        "object_used_colors":[
+           
+        ],
+        "object_name":"Hex Caret",
+        "bg_group_item_id":1,
+        "bg_group_item_object":"g",
+        "bg_group_item_object_variables":[
+           {
+              "bg_group_child_id":1,
+              "bg_group_child_object":"polygon",
+              "name":"points",
+              "fill":"#FFFFFF",
+              "value":"87.74,27.03 5.06,167.94 87.74,309.19"
+           }
+        ]
+     },
+     {
+        "id":4,
+        "object_bg_color":"#FFFFFF",
+      "sqm_price":"127",
+      "type":"Hexagon",
+        "object_used_colors":[
+           
+        ],
+        "object_name":"Hex Monochrome",
+        "bg_group_item_id":1,
+        "bg_group_item_object":"g",
+        "bg_group_item_object_variables":[
+           {
+              "bg_group_child_id":1,
+              "bg_group_child_object":"polygon",
+              "name":"points",
+              "fill":"#FFFFFF",
+              "value":"88.58,311.36 253.47,311.36 336.28,167.94 253.47,24.52"
+           }
+        ]
+     },
+     {
+        "id":5,
+        "object_bg_color":"#FFFFFF",
+      "sqm_price":"127",
+      "type":"Hexagon",
+        "object_used_colors":[
+           
+        ],
+        "object_name":"Hex Triangle",
+        "bg_group_item_id":1,
+        "bg_group_item_object":"g",
+        "bg_group_item_object_variables":[
+           {
+              "bg_group_child_id":1,
+              "bg_group_child_object":"polygon",
+              "name":"points",
+              "fill":"#FFFFFF",
+              "value":"15.66,167.93 79.21,274.8 79.21,61.06"
+           },
+           {
+            "bg_group_child_id":1,
+            "bg_group_child_object":"polygon",
+            "name":"points",
+            "fill":"#FFFFFF",
+            "value":"160.82,167.93 97.26,61.06 97.26,274.8"
+         },
+         {
+            "bg_group_child_id":1,
+            "bg_group_child_object":"polygon",
+            "name":"points",
+            "fill":"#FFFFFF",
+            "value":"173.38,175.01 113.11,283.77 297.58,176.27"
+         },
+         {
+            "bg_group_child_id":1,
+            "bg_group_child_object":"polygon",
+            "name":"points",
+            "fill":"#FFFFFF",
+            "value":"246.39,300.67 306.66,191.9 122.19,299.4"
+         },
+         {
+            "bg_group_child_id":1,
+            "bg_group_child_object":"polygon",
+            "name":"points",
+            "fill":"#FFFFFF",
+            "value":"176.22,160.04 300.38,156.68 114.13,52.31"
+         },
+         {
+            "bg_group_child_id":1,
+            "bg_group_child_object":"polygon",
+            "name":"points",
+            "fill":"#FFFFFF",
+            "value":"247.11,33.17 122.95,36.53 309.2,140.9"
+         },
+         {
+            "bg_group_child_id":7,
+            "bg_group_child_object":"path",
+            "name":"d",
+            "fill":"#FFFFFF",
+            "value":"M76.26,45.29c0,0,27.71,8.85,35.17-20.74l-23.19-0.03L76.26,45.29z"
+         },
+         {
+            "bg_group_child_id":7,
+            "bg_group_child_object":"path",
+            "name":"d",
+            "fill":"#FFFFFF",
+            "value":"M323.29,145.52c0,0-20.26,20.91,2.25,40.64l10.73-18.23L323.29,145.52z"
+         },
+         {
+            "bg_group_child_id":7,
+            "bg_group_child_object":"path",
+            "name":"d",
+            "fill":"#FFFFFF",
+            "value":"M76.46,290.69c0,0,26.76-9.1,35.11,20.54l-23.33,0.13L76.46,290.69z"
+         }
+        ]
+     },
+     {
+        "id":6,
+        "object_bg_color":"#FFFFFF",
+      "sqm_price":"127",
+      "type":"Hexagon",
+        "object_used_colors":[
+           
+        ],
+        "object_name":"Hex Waves",
+        "bg_group_item_id":1,
+        "bg_group_item_object":"g",
+        "bg_group_item_object_variables":[
+           {
+              "bg_group_child_id":1,
+              "bg_group_child_object":"polygon",
+              "name":"points",
+              "fill":"#FFFFFF",
+              "value":"295.03,96.58 214.71,96.9 126.89,236.79 44.82,236.79 87.87,311.36 253.78,311.36 336.28,167.94"
+           }
+        ]
+     },
+     {
+        "id":7,
+        "object_bg_color":"#FFFFFF",
+      "sqm_price":"127",
+      "type":"Hexagon",
+        "object_used_colors":[
+           
+        ],
+        "object_name":"St Tropez",
+        "bg_group_item_id":1,
+        "bg_group_item_object":"g",
+        "bg_group_item_object_variables":[
+           {
+              "bg_group_child_id":1,
+              "bg_group_child_object":"path",
+              "name":"d",
+              "fill":"#FFFFFF",
+              "value":"M241.73,44.85H99.61L28.55,167.94l71.06,123.08h142.12l71.06-123.08L241.73,44.85z M227.51,266.38H113.83l-56.84-98.45l56.84-98.45h113.68l56.84,98.45L227.51,266.38z"
+           },
+           {
+            "bg_group_child_id":2,
+            "bg_group_child_object":"path",
+            "name":"d",
+            "fill":"#FFFFFF",
+            "value":"M216,89.42h-90.66l-45.33,78.52l45.33,78.52H216l45.33-78.52L216,89.42z M204.83,227.11h-68.32l-34.16-59.17l34.16-59.17h68.32l34.16,59.17L204.83,227.11z"
+         },
+         {
+            "bg_group_child_id":3,
+            "bg_group_child_object":"path",
+            "name":"d",
+            "fill":"#FFFFFF",
+            "value":"M191.57,131.73h-41.8l-20.9,36.2l20.9,36.2h41.8l20.9-36.2L191.57,131.73z M179.64,183.47H161.7l-8.97-15.53l8.97-15.53h17.94l8.97,15.53L179.64,183.47z"
+         }
+        ]
+     },
+     {
+        "id":8,
+        "object_bg_color":"#FFFFFF",
+      "sqm_price":"127",
+      "type":"Hexagon",
+        "object_used_colors":[
+           
+        ],
+        "object_name":"Starry Night-1",
+        "bg_group_item_id":1,
+        "bg_group_item_object":"g",
+        "bg_group_item_object_variables":[
+           {
+              "bg_group_child_id":1,
+              "bg_group_child_object":"path",
+              "name":"d",
+              "fill":"#FFFFFF",
+              "value":"M189.95,160.31l20.63-27.8c0.9-0.9-1.79-3.59-2.69-2.69l-27.8,20.63l-7.17-34.97c0-0.9-3.59-0.9-4.48,0l-5.38,34.08l-27.8-19.73c-0.9-0.9-3.59,1.79-2.69,2.69l20.63,27.8l-34.08,5.38c-0.9,0-0.9,3.59,0,4.48l34.08,5.38l-20.63,28.7c-0.9,0.9,1.79,3.59,2.69,2.69l27.8-20.63l5.38,34.08c0,0.9,3.59,0.9,4.48,0l5.38-34.08l27.8,20.63c0.9,0.9,3.59-1.79,2.69-2.69l-20.63-27.8l34.08-5.38c0.9,0,0.9-3.59,0-4.48L189.95,160.31z"
+           }
+        ]
+     },
+     {
+        "id":9,
+        "object_bg_color":"#FFFFFF",
+      "sqm_price":"127",
+      "type":"Hexagon",
+        "object_used_colors":[
+           
+        ],
+        "object_name":"Starry Night-2",
+        "bg_group_item_id":1,
+        "bg_group_item_object":"g",
+        "bg_group_item_object_variables":[
+           {
+              "bg_group_child_id":1,
+              "bg_group_child_object":"path",
+              "name":"d",
+              "fill":"#FFFFFF",
+              "value":"M136.47,195.1l13.92-18.76c0.61-0.61-1.21-2.42-1.82-1.82l-18.76,13.92l-4.84-23.6c0-0.61-2.42-0.61-3.03,0l-3.63,22.99l-18.76-13.31c-0.61-0.61-2.42,1.21-1.82,1.82l13.92,18.76l-22.99,3.63c-0.61,0-0.61,2.42,0,3.03l22.99,3.63l-13.92,19.36c-0.61,0.61,1.21,2.42,1.82,1.82l18.76-13.92l3.63,22.99c0,0.61,2.42,0.61,3.03,0l3.63-22.99l18.76,13.92c0.61,0.61,2.42-1.21,1.82-1.82L135.26,206l22.99-3.63c0.61,0,0.61-2.42,0-3.03L136.47,195.1z"
+            }
+        ]
+     },
+     {
+        "id":10,
+        "object_bg_color":"#FFFFFF",
+      "sqm_price":"127",
+      "type":"Hexagon",
+        "object_used_colors":[
+           
+        ],
+        "object_name":"Starry Night-3",
+        "bg_group_item_id":1,
+        "bg_group_item_object":"g",
+        "bg_group_item_object_variables":[
+           {
+              "bg_group_child_id":1,
+              "bg_group_child_object":"path",
+              "name":"d",
+              "fill":"#FFFFFF",
+              "value":"M106.76,133.21l8.23-11.1c0.36-0.36-0.72-1.43-1.07-1.07l-11.1,8.23l-2.86-13.96c0-0.36-1.43-0.36-1.79,0l-2.15,13.6l-11.1-7.88c-0.36-0.36-1.43,0.72-1.07,1.07l8.23,11.1l-13.6,2.15c-0.36,0-0.36,1.43,0,1.79l13.6,2.15l-8.23,11.46c-0.36,0.36,0.72,1.43,1.07,1.07l11.1-8.23l2.15,13.6c0,0.36,1.43,0.36,1.79,0l2.15-13.6l11.1,8.23c0.36,0.36,1.43-0.72,1.07-1.07l-8.23-11.1l13.6-2.15c0.36,0,0.36-1.43,0-1.79L106.76,133.21z"
+            }
+        ]
+     }
+]
