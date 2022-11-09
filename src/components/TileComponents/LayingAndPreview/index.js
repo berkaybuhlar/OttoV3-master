@@ -13,12 +13,10 @@ const index = ({
   const handleLaying=(data) => {
     setLayingTypes([...layingTypes.filter((el) => el.id !==data.id)])
   }
-  
   const handleSelected=(data) => {
     setLayingTypes([...layingTypes.filter((el) => el.id !==data.id)])
     setCurrentPattern(data)
   }
-  
   return (
     <Grid
       container
