@@ -161,7 +161,7 @@ const index = forwardRef((prop, ref) => {
             sx={{
               display: load ? null :'none',
               position: 'absolute',
-              width: '120%',
+              width: '100%',
               height: '100%',
               zIndex: 8,
               backgroundColor: 'white',

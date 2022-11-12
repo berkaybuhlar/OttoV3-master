@@ -71,7 +71,7 @@ const index = (props) => {
                           variant='contained'
                           onClick={() => navigate('/admin/orders')}
                         >
-                            Costumer Request
+                            Customer Request
                         </Button>
                       </Grid>
                     </Grid>

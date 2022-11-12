@@ -25,6 +25,7 @@ const index = () => {
       <CreateIcon
         sx={{ cursor: 'pointer' }}
       />
+      {/* Bu modali acilista kaldirin sadece urun detaylara ekleyin */}
       <Modal
         open={modal}
         onClose={() => setModal(!modal)}
@@ -32,6 +33,7 @@ const index = () => {
         aria-describedby="modal-modal-description"
       >
         <Box sx={style}>
+          {/* Popup */}
           <Grid container justifyContent={'space-around'} width='100%' height='100%'>
             <Grid item md='6' xs='12'>
               <Grid container justifyContent={'space-between'} alignItems='space-between' width={'100%'} height={'100%'}>
